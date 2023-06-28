@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklabs_4_eve_website=self.webpackChunklabs_4_eve_website||[]).push([[700],{5688:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);
